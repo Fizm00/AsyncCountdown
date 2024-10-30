@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="Title">AsyncTask Demo</string>
+    <string name="start_task">Start Task</string>
+    <string name="cancel_task">Cancel Task</string>
+    <string name="result_will_appear_here">Result will appear here</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="pause_task">Pause Task</string>
+    <string name="resume_task">Resume Task</string>
+</resources>
