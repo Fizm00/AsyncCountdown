@@ -1,8 +1,8 @@
 # AsyncTask Demo ⏳📱
 
-<img src="./App_Preview.png" alt="App Preview1" width="300"/>
-<img src="./App_Preview.png" alt="App Preview2" width="300"/>
-<img src="./App_Preview.png" alt="App Preview3" width="300"/>
+<img src="./App_Preview1.png" alt="App Preview 1" width="300"/>
+<img src="./App_Preview2.png" alt="App Preview 2" width="300"/>
+<img src="./App_Preview3.png" alt="App Preview 3" width="300"/>
 
 ## Description
 This application demonstrates the use of `AsyncTask` in Android to run a background task, specifically a countdown timer with an interactive user interface. The app vibrates and plays a notification sound when the countdown finishes, and it allows users to pause, resume, and cancel the countdown.
